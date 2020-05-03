@@ -9,4 +9,4 @@ sudo apt install python3-kivy   #For Python 3.x
 
 #### Running
 This can be run normally like any other Python program.
-An APK can also be built for Android Devices using Bulldozer.
+An APK can also be built for Android Devices using Bulldozer, which is a standard Python Packager for Android.
